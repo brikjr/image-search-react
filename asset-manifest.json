@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/brikjr/image-search-react/static/css/main.d83b8aa6.chunk.css",
+    "main.js": "/brikjr/image-search-react/static/js/main.60bc2d6c.chunk.js",
+    "main.js.map": "/brikjr/image-search-react/static/js/main.60bc2d6c.chunk.js.map",
+    "runtime-main.js": "/brikjr/image-search-react/static/js/runtime-main.d943dc75.js",
+    "runtime-main.js.map": "/brikjr/image-search-react/static/js/runtime-main.d943dc75.js.map",
+    "static/js/2.aca3836e.chunk.js": "/brikjr/image-search-react/static/js/2.aca3836e.chunk.js",
+    "static/js/2.aca3836e.chunk.js.map": "/brikjr/image-search-react/static/js/2.aca3836e.chunk.js.map",
+    "index.html": "/brikjr/image-search-react/index.html",
+    "static/css/main.d83b8aa6.chunk.css.map": "/brikjr/image-search-react/static/css/main.d83b8aa6.chunk.css.map",
+    "static/js/2.aca3836e.chunk.js.LICENSE.txt": "/brikjr/image-search-react/static/js/2.aca3836e.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d943dc75.js",
+    "static/js/2.aca3836e.chunk.js",
+    "static/css/main.d83b8aa6.chunk.css",
+    "static/js/main.60bc2d6c.chunk.js"
+  ]
+}
