@@ -1,0 +1,44 @@
+
+
+//pass function to event handler
+
+onInputChange(e){
+        console.log(e.target.value)
+}
+onChange={this.onInputChange}
+
+======
+
+onChange={ e => console.log(e.target.value)}
+
+مش كل ال events 
+بتنفع مع كل العناصر
+
+
+كل الي كتبته فوق دا Uncontrolled
+
+to convert to controlled
+
+state={ item: "" };
+
+ onChange={ e => this.setState({item: e.target.value}) }
+ value={this.state.item}
+
+=========================================================================================
+
+
+"this"   inside class refer to class itself
+
+
+ onFormSubmit = (e) => {
+    e.preventDefault();
+    console.log(this.state.item);
+  }
+    or 
+  onSubmit={ () => this.onFormSubmit() }     invoke arrow function 
+
+  solve problem of "this" issues 
+  
+=========================================================================================
+ props in function component  props.item
+ props in class component this.props.item
